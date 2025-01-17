@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/waleed/Desktop/Embedded Linux/02-C++/02-Tasks/03-Slide3/04-Task4/Backtrace.cpp
+iostream
+-
+Backtrace.hpp
+/home/waleed/Desktop/Embedded Linux/02-C++/02-Tasks/03-Slide3/04-Task4/Backtrace.hpp
+
+/home/waleed/Desktop/Embedded Linux/02-C++/02-Tasks/03-Slide3/04-Task4/Backtrace.hpp
+iostream
+-
+vector
+-
+
